@@ -1,15 +1,19 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
 import "./App.css";
-import Header from "./components/Header";
 import RecentArticles from "./pages/RecentArticles";
+
+import { Route, Routes } from "react-router-dom";
+import HomeLayout from "./layouts/HomeLayout";
+import Article from "./pages/Article";
 
 function App() {
     return (
         <div>
-          <Header/>
-          <RecentArticles/>
+            <Routes>
+                <Route path="/" element={<HomeLayout />}>
+                    <Route index element={<RecentArticles />} />
+                    <Route path="/article/:id" element={<Article/>}/>
+                </Route>
+            </Routes>
         </div>
     );
 }

@@ -1,9 +1,19 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import ArticleCard from "../components/ArticleCard";
-import articles from "../../data.json";
+import { getAllArticles } from "../apis/articleApis";
 
 const RecentArticles = () => {
     const [category, setCategory] = useState("all");
+    const [articles, setArticles] = useState([]);
+
+    useEffect(() => {
+        const fetchArticles = async () => {
+            const data = await getAllArticles();
+            setArticles(data);
+        };
+        fetchArticles();
+    }, []);
+
     const categories = ["all", ...new Set(articles.map((article) => article.category))];
 
     const filteredArticles = articles.filter((article) => {

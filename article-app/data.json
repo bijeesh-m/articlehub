@@ -1,8 +1,6 @@
 [
     {
-        "_id": {
-            "$oid": "67f29f99ac7e34045e6ebf2f"
-        },
+        "_id": 1,
         "title": "Understanding JavaScript Closures",
         "author": "Jane Doe",
         "published_date": "2023-11-01",
@@ -10,9 +8,7 @@
         "content": "Closures are a fundamental concept in JavaScript..."
     },
     {
-        "_id": {
-            "$oid": "67f29f99ac7e34045e6ebf30"
-        },
+        "_id": 2,
         "title": "A Guide to Node.js Streams",
         "author": "John Smith",
         "published_date": "2024-01-15",
@@ -20,9 +16,7 @@
         "content": "Streams in Node.js are used for efficient data processing..."
     },
     {
-        "_id": {
-            "$oid": "67f29f99ac7e34045e6ebf31"
-        },
+        "_id": 3,
         "title": "Mastering Async/Await in JavaScript",
         "author": "Emily Clark",
         "published_date": "2023-12-20",
@@ -30,9 +24,7 @@
         "content": "Async/await simplifies working with promises in JavaScript..."
     },
     {
-        "_id": {
-            "$oid": "67f29f99ac7e34045e6ebf32"
-        },
+        "_id": 4,
         "title": "Introduction to MongoDB Aggregation",
         "author": "Michael Brown",
         "published_date": "2023-10-05",
@@ -40,9 +32,7 @@
         "content": "Aggregation operations process data records and return results..."
     },
     {
-        "_id": {
-            "$oid": "67f29f99ac7e34045e6ebf33"
-        },
+        "_id": 5,
         "title": "Creating REST APIs with Express",
         "author": "Alice Green",
         "published_date": "2024-02-08",
@@ -50,9 +40,7 @@
         "content": "Express is a fast, minimalist web framework for Node.js..."
     },
     {
-        "_id": {
-            "$oid": "67f29f99ac7e34045e6ebf34"
-        },
+        "_id": 6,
         "title": "Understanding React useEffect",
         "author": "Sam Wilson",
         "published_date": "2023-09-17",
@@ -60,9 +48,7 @@
         "content": "useEffect is a hook that allows side effects in functional components..."
     },
     {
-        "_id": {
-            "$oid": "67f29f99ac7e34045e6ebf35"
-        },
+        "_id": 7,
         "title": "Demystifying the Event Loop",
         "author": "David Johnson",
         "published_date": "2023-11-23",
@@ -70,9 +56,7 @@
         "content": "The event loop is what allows Node.js to perform non-blocking I/O..."
     },
     {
-        "_id": {
-            "$oid": "67f29f99ac7e34045e6ebf36"
-        },
+        "_id": 8,
         "title": "Secure Authentication with JWT",
         "author": "Laura White",
         "published_date": "2024-03-01",
@@ -80,9 +64,7 @@
         "content": "JWTs are used for secure token-based authentication..."
     },
     {
-        "_id": {
-            "$oid": "67f29f99ac7e34045e6ebf37"
-        },
+        "_id": 9,
         "title": "Deploying MERN Stack Applications",
         "author": "Robert Lee",
         "published_date": "2024-04-02",
@@ -90,9 +72,7 @@
         "content": "To deploy a MERN app, consider services like Heroku, Render, or Vercel..."
     },
     {
-        "_id": {
-            "$oid": "67f29f99ac7e34045e6ebf38"
-        },
+        "_id": 10,
         "title": "Handling Forms in React",
         "author": "Katie Miller",
         "published_date": "2023-12-30",
@@ -100,9 +80,7 @@
         "content": "Form handling in React can be controlled or uncontrolled..."
     },
     {
-        "_id": {
-            "$oid": "67f29f99ac7e34045e6ebf39"
-        },
+        "_id": 11,
         "title": "Using Mongoose for MongoDB",
         "author": "Tom Harris",
         "published_date": "2023-11-10",
@@ -110,9 +88,7 @@
         "content": "Mongoose provides a schema-based solution to model application data..."
     },
     {
-        "_id": {
-            "$oid": "67f29f99ac7e34045e6ebf3a"
-        },
+        "_id": 12,
         "title": "React Router Basics",
         "author": "Anna Gray",
         "published_date": "2024-01-05",
@@ -120,9 +96,7 @@
         "content": "React Router is a library for routing in React applications..."
     },
     {
-        "_id": {
-            "$oid": "67f29f99ac7e34045e6ebf3b"
-        },
+        "_id": 13,
         "title": "Introduction to Tailwind CSS",
         "author": "Ben Fox",
         "published_date": "2023-10-28",
@@ -130,9 +104,7 @@
         "content": "Tailwind is a utility-first CSS framework for building custom designs..."
     },
     {
-        "_id": {
-            "$oid": "67f29f99ac7e34045e6ebf3c"
-        },
+        "_id": 14,
         "title": "Understanding Middleware in Express",
         "author": "Olivia Black",
         "published_date": "2023-09-25",
@@ -140,9 +112,7 @@
         "content": "Middleware functions have access to the request and response objects..."
     },
     {
-        "_id": {
-            "$oid": "67f29f99ac7e34045e6ebf3d"
-        },
+        "_id": 15,
         "title": "Optimizing MongoDB Performance",
         "author": "Chris Adams",
         "published_date": "2024-02-20",
