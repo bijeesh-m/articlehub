@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import { getAllArticles } from "../apis/articleApis";
 
 const Header = () => {
+    
     const [query, setQuery] = useState("");
     const [articles, setArticles] = useState([]);
 
