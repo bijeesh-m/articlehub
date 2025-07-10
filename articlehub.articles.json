@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "686d01bc38cfe1b03ae622cd"
+  },
+  "title": "A Beginner’s Guide to Express.js",
+  "author": "Emily Clark",
+  "published_date": "2024-02-10T00:00:00.000Z",
+  "category": "Backend",
+  "content": "Express.js is a lightweight web framework for Node.js that simplifies routing, middleware management, and server creation. In this guide, beginners will learn how to set up an Express server, handle routes, manage middleware, and connect with MongoDB to build REST APIs efficiently. \\n\\n Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam ex molestiae corporis eveniet aliquid veritatis recusandae at commodi quidem! Voluptates rerum velit perferendis id recusandae vitae tempora aut quo earum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias voluptates beatae possimus, ad, ratione sunt cumque porro exercitationem cum eaque veniam fugit blanditiis minima commodi tenetur! Labore hic fuga nostrum.\n",
+  "image": "https://miro.medium.com/v2/resize:fit:1400/0*DVJGKXOACXsUprOk.png"
+},
+{
+  "_id": {
+    "$oid": "686d01bc38cfe1b03ae622ce"
+  },
+  "title": "Top 10 JavaScript ES6 Features",
+  "author": "Chris Martin",
+  "published_date": "2024-01-05T00:00:00.000Z",
+  "category": "JavaScript",
+  "content": "ES6 introduced a host of new features to JavaScript such as `let` and `const`, arrow functions, template literals, destructuring, default parameters, classes, and more. This article covers each feature with examples and explains how they help write cleaner and more maintainable code.",
+  "image": "https://miro.medium.com/v2/resize:fit:1400/1*sLzhBnQM--_-NfC8xiiEiA.png"
+},
+{
+  "_id": {
+    "$oid": "686d01bc38cfe1b03ae622cf"
+  },
+  "title": "CSS Grid vs Flexbox",
+  "author": "Rachel Lee",
+  "published_date": "2024-04-18T00:00:00.000Z",
+  "category": "Frontend",
+  "content": "CSS Grid and Flexbox are powerful layout systems that allow developers to build responsive designs with ease. This article compares both, showing when to use one over the other through real-world layout examples, and how to combine them for complex layouts.",
+  "image": "https://miro.medium.com/v2/resize:fit:860/1*FifZUGz97Onmb7RUOairbg.png"
+},
+{
+  "_id": {
+    "$oid": "686d01bc38cfe1b03ae622d0"
+  },
+  "title": "Mastering JWT Authentication",
+  "author": "David Kim",
+  "published_date": "2024-07-01T00:00:00.000Z",
+  "category": "Security",
+  "content": "JSON Web Tokens (JWT) provide a secure way to transmit data between parties as a JSON object. This article explains how JWT works, its structure, how to implement JWT-based authentication in a Node.js and Express app, and common security pitfalls to avoid.",
+  "image": "https://miro.medium.com/v2/resize:fit:1200/1*d4L6aBWn0C18S-5k_plK7w.png"
+},
+{
+  "_id": {
+    "$oid": "686d01bc38cfe1b03ae622d1"
+  },
+  "title": "TypeScript for JavaScript Developers",
+  "author": "Sophia Patel",
+  "published_date": "2024-06-05T00:00:00.000Z",
+  "category": "JavaScript",
+  "content": "TypeScript adds optional static typing to JavaScript, helping catch bugs during development and improving code readability. This article is tailored for JavaScript developers transitioning to TypeScript and explains interfaces, type annotations, generics, and how to set up a TS project.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmkeuglevHTdHmptm7LW54sqgBEUa5CIFWEQ&s"
+},
+{
+  "_id": {
+    "$oid": "686d01bc38cfe1b03ae622d2"
+  },
+  "title": "Deploying MERN Apps on Vercel",
+  "author": "Liam Brown",
+  "published_date": "2024-05-25T00:00:00.000Z",
+  "category": "Deployment",
+  "content": "Vercel provides a simple way to deploy frontend and serverless functions. This guide walks you through deploying a MERN (MongoDB, Express, React, Node.js) stack application using Vercel for the frontend and MongoDB Atlas for the database, with tips on environment variables and routing.",
+  "image": "https://i.ytimg.com/vi/Cfi0mymfKiA/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "686d01bc38cfe1b03ae622d3"
+  },
+  "title": "Writing Testable JavaScript Code",
+  "author": "Ava Nguyen",
+  "published_date": "2024-07-07T00:00:00.000Z",
+  "category": "Testing",
+  "content": "Writing testable code is crucial for long-term maintainability. This article covers principles like separation of concerns, dependency injection, and pure functions. It also introduces popular testing frameworks like Jest and explains how to write unit and integration tests effectively.",
+  "image": "https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/503709/image-1610956671904-8a6985838c5cda5e391822a4ad4e1062.png"
+},
+{
+  "_id": {
+    "$oid": "686d01bc38cfe1b03ae622ca"
+  },
+  "title": "Exploring the Depths of Node.js",
+  "author": "John Doe",
+  "published_date": "2024-05-01T00:00:00.000Z",
+  "category": "Backend",
+  "content": "Node.js is a powerful runtime built on Chrome's V8 engine that allows developers to build fast and scalable network applications using JavaScript on the server side. It provides an event-driven architecture and non-blocking I/O which makes it efficient and lightweight.\n\nOne of the biggest advantages of Node.js is its single-threaded, event-driven architecture that handles many connections concurrently. This makes it perfect for I/O-heavy operations, such as API services and real-time applications.\n\nDevelopers use Node.js in production to build REST APIs, WebSockets, streaming services, command-line tools, and even full-stack applications when paired with frontend frameworks like React.\n\nIn this article, we explore how Node.js works under the hood, common use-cases, and its role in modern backend development. We also look into best practices, scalability techniques, and useful npm modules that can streamline your development workflow.",
+  "image": "https://miro.medium.com/v2/resize:fit:1200/1*VRYzIWkEeNnCco3UDdlo-w.png"
+},
+{
+  "_id": {
+    "$oid": "686d01bc38cfe1b03ae622cb"
+  },
+  "title": "Understanding React Hooks",
+  "author": "Jane Smith",
+  "published_date": "2024-06-15T00:00:00.000Z",
+  "category": "Frontend",
+  "content": "React Hooks were introduced in React 16.8 and have revolutionized the way developers write functional components. With hooks like `useState`, `useEffect`, and `useContext`, developers can manage state and lifecycle methods without needing class components.\n\nHooks promote cleaner, more readable code and allow better logic reuse by encapsulating functionality into custom hooks. They have replaced class components in most modern React applications.\n\nThis article walks you through real-world examples and patterns to effectively use hooks in your projects. We'll also discuss common pitfalls, debugging techniques, and how to organize your codebase for scalability and testability.\n\nBy the end, you'll be confident in building full-featured apps using nothing but functional components and hooks.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvRUIf2X_4ZYIdr9ntQu2XQ353LFHTGXhmLA&s"
+},
+{
+  "_id": {
+    "$oid": "686d01bc38cfe1b03ae622cc"
+  },
+  "title": "MongoDB Aggregation Simplified",
+  "author": "Michael Johnson",
+  "published_date": "2024-03-22T00:00:00.000Z",
+  "category": "Database",
+  "content": "Aggregation in MongoDB allows for powerful data transformation and analytics. It uses a pipeline architecture where data passes through a sequence of stages like `$match`, `$group`, `$project`, and more.\n\nThis makes it easy to filter, group, reshape, and compute values directly inside MongoDB without requiring application logic. It's widely used for building dashboards, reports, and filtering large datasets.\n\nThis article breaks down each stage with real-world use-cases and performance considerations. You’ll learn how to optimize queries using indexes, deal with nested documents, and how to use the `$lookup` stage for joins.\n\nWhether you're building analytics features or simply want to reduce server-side computation, MongoDB aggregation is a must-have skill for any backend developer.",
+  "image": "https://studio3t.com/wp-content/uploads/2018/10/Mongodb.png"
+}]
